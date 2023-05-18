@@ -4,8 +4,11 @@ I have shown in the below mentioned youtube video that how one can easily make a
 ->https://youtu.be/fMHpTHKTpjw
 
 Add this dependency to your build.gradle(mmodule : app)
+
 dependencies{
+
     implementation 'com.airbnb.android:lottie:3.4.0'
+    
 }
 
 You can download Png Icons for free from this website -> https://www.flaticon.com/
