@@ -1,5 +1,6 @@
 # CutomLottieView
 This repository contains the code of lottie view in xml file.
+
 I have shown in the below mentioned youtube video that how one can easily make a custom lottie view rather than using readymade lottie.
 ->https://youtu.be/fMHpTHKTpjw
 
